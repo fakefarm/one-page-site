@@ -3,3 +3,14 @@ h1.price-text {
   font-size: 62px;
   color: #ff6666;
 }
+
+.clov3r-tagline {
+  font-size: 24px;
+  line-height: 0;
+  color: rgba(255,255,255,0.7);
+  margin-top: 15px;
+}
+
+.clov3r-logo img{
+  width: 20%;
+}
